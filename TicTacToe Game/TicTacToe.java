@@ -13,9 +13,7 @@ import java.util.List;
  * A win is 3 in a row.
  * There is an implemented AI.
  * To complete this game @student will complete and test the functions required.
- *
- * @author Jonathan Hudson
- * @version 1.0
+
  */
 public class TicTacToe extends Canvas {
 
