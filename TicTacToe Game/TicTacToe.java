@@ -12,7 +12,7 @@ import java.util.List;
  * Allows user ot play a Tic Tac Toe game on boards with lengths of 3,4, or 5 for width/height.
  * A win is 3 in a row.
  * There is an implemented AI.
- * To complete this game @student will complete and test the functions required.
+
 
  */
 public class TicTacToe extends Canvas {
